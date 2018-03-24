@@ -1,0 +1,29 @@
+<annotation>
+  <folder>images</folder>
+  <filename>image215.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>shirt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+<<<<<<< HEAD:data-label-tool/final_train/annotations/image215.xml
+      <xmin>121</xmin>
+      <ymin>339</ymin>
+      <xmax>277</xmax>
+      <ymax>587</ymax>
+=======
+      <xmin>187</xmin>
+      <ymin>607</ymin>
+      <xmax>375</xmax>
+      <ymax>926</ymax>
+>>>>>>> 5de0859ed28558e4a78dbbf06a0193a869fe8f49:T-shirt/annotations/image30.xml
+    </bndbox>
+  </object>
+</annotation>

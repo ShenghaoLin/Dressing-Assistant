@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>image39.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>normal-collar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>231</xmin>
+      <ymin>296</ymin>
+      <xmax>367</xmax>
+      <ymax>385</ymax>
+    </bndbox>
+  </object>
+</annotation>

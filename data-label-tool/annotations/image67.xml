@@ -1,0 +1,25 @@
+<annotation>
+  <folder>images</folder>
+  <filename>image67.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+<<<<<<< HEAD:data-label-tool/annotations/image67.xml
+  <object>
+    <name>shirt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>146</xmin>
+      <ymin>359</ymin>
+      <xmax>259</xmax>
+      <ymax>573</ymax>
+    </bndbox>
+  </object>
+=======
+>>>>>>> 5de0859ed28558e4a78dbbf06a0193a869fe8f49:T-shirt/annotations/image79.xml
+</annotation>

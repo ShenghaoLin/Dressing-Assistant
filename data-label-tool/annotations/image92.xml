@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>image92.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>shirt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>383</ymin>
+      <xmax>258</xmax>
+      <ymax>567</ymax>
+    </bndbox>
+  </object>
+</annotation>
