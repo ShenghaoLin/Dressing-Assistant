@@ -7,16 +7,4 @@
     <height>960</height>
     <depth>3</depth>
   </size>
-  <object>
-    <name>shirt</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>136</xmin>
-      <ymin>359</ymin>
-      <xmax>319</xmax>
-      <ymax>486</ymax>
-    </bndbox>
-  </object>
 </annotation>
