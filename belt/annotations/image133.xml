@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>image133.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>belt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>136</xmin>
+      <ymin>569</ymin>
+      <xmax>226</xmax>
+      <ymax>643</ymax>
+    </bndbox>
+  </object>
+</annotation>

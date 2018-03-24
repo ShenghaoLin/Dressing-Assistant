@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>image136.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>belt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>202</xmin>
+      <ymin>582</ymin>
+      <xmax>310</xmax>
+      <ymax>667</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>belt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>594</ymin>
+      <xmax>314</xmax>
+      <ymax>671</ymax>
+    </bndbox>
+  </object>
+</annotation>
