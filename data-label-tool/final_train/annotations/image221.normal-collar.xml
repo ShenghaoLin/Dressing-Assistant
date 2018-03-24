@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>image221.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>normal-collar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>160</xmin>
+      <ymin>244</ymin>
+      <xmax>265</xmax>
+      <ymax>308</ymax>
+    </bndbox>
+  </object>
+</annotation>
